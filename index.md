@@ -11,7 +11,77 @@ The emergence of virtual and augmented reality has increased the demand of robus
 January 7th 2019 - Room TBD, Hilton Waikoloa Village, Hawaii
 ## Program
 
-Coming Soon!
-
+<table style="width:100%">
+  <tr>
+    <th><div align="center"> Time</div> </th>
+    <th><div align="center"> Title</div> </th> 
+    <th><div align="center"> Speaker</div> </th>
+  </tr>
+  <tr>
+    <td><div align="center"> 9:00 - 9:15 </div> </td>
+    <td><div align="center"> Introduction </div> </td> 
+    <td><div align="center"> Shahram Izadi<br/> Google </div> </td> 
+  </tr>
+  <tr>
+    <td><div align="center"> 9:15 - 9:35 </div> </td>
+    <td><div align="center"> Depth Sensors and Algorithms: What, When, Where </div> </td> 
+    <td><div align="center"> Adarsh Kowdle <br/> Google </div> </td> 
+  </tr>  
+  <tr>
+    <td><div align="center"> 9:35 - 09:55 </div> </td>
+    <td><div align="center"> Triangulation Methods: Basics and Challenges </div> </td> 
+    <td><div align="center"> Christoph Rhemann <br/> Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 9:55 - 10:10 </div> </td>
+    <td><div align="center"> UltraFast Machine Learning for Triangulation Methods </div> </td> 
+    <td><div align="center"> Sean Fanello <br/> Google </div> </td> 
+  </tr>    
+    <tr>
+    <td><div align="center"> 10:10 - 10:30 </div> </td>
+    <td><div align="center"> Depth Estimation in the Age of Deep Learning </div> </td> 
+    <td><div align="center"> Sameh Khamis <br/> Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 10:30 - 11:00 </div> </td>
+    <td><div align="center"> Coffee Break </div> </td> 
+    <td></td> 
+  </tr>        
+  <tr>
+    <td><div align="center"> 11:00 - 11:15 </div> </td>
+    <td><div align="center"> Learning a Multi-View Stereo Machine </div> </td> 
+    <td><div align="center"> Christian Haene <br/> Google </div> </td> 
+  </tr> 
+   <tr>
+    <td><div align="center"> 11:15 - 12:00 </div> </td>
+    <td><div align="center"> Localization and Mapping - ARCore </div> </td> 
+    <td><div align="center"> Konstantine Tsotsos <br/> Google </div> </td> 
+  </tr>      
+   <tr>
+    <td><div align="center"> 12:00 - 12:30 </div> </td>
+    <td><div align="center"> Non-Linear Optimization Methods </div> </td> 
+    <td><div align="center"> Jonathan Taylor <br/> Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 12:30 - 13:00 </div> </td>
+    <td><div align="center"> Parametric Tracking </div> </td> 
+    <td><div align="center"> Sofien Bouaziz <br/> Google </div> </td> 
+  </tr>     
+  <tr>
+    <td><div align="center"> 13:00 - 13:30 </div> </td>
+    <td><div align="center"> Non Rigid Reconstruction of Humans </div> </td> 
+    <td><div align="center"> Kaiwen Guo <br/> Google </div> </td> 
+  </tr>  
+  <tr>
+    <td><div align="center"> 13:30 - 13:45 </div> </td>
+    <td><div align="center"> Real-time Compression and Streaming of 4D Performances </div> </td> 
+    <td><div align="center"> Danhang Tang <br/> Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 13:45 - 14:00 </div> </td>
+    <td><div align="center"> Neural rendering for Performance Capture </div> </td> 
+    <td><div align="center"> Rohit Pandey <br/> Google </div> </td> 
+  </tr>     
+</table>
 
 Please contact  [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions or to request the slides.
